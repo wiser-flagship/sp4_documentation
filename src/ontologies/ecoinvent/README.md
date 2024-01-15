@@ -1,0 +1,9 @@
+# EcoInvent
+
+Ecoinvent is a widely recognized and comprehensive life cycle inventory (LCI) database that plays a crucial role in the field of sustainability assessment. Developed by the Swiss Centre for Life Cycle Inventories, ecoinvent provides detailed and standardized data on the environmental impacts associated with various products and processes. This database serves as a valuable resource for researchers, policymakers, and businesses seeking to assess the environmental footprint of their activities. Ecoinvent encompasses a wide range of industries, including agriculture, energy, manufacturing, and transportation, making it a versatile tool for conducting life cycle assessments (LCAs). By offering transparent and up-to-date information on resource consumption, emissions, and other environmental factors, ecoinvent contributes significantly to the advancement of sustainable practices and informed decision-making in today's complex and interconnected world.
+
+Ecoinvent uses EcoSpold02 as a data format. Since, ecoinvent is a consortium partner in WISER, and they provide technological infra-structure to query their database from an API, we decided not to host versions of ecoinvent that utilize EcoSpold02 in the WISER KG. Instead SP3 provides connections to both the WISER KG and the ecoinvent API. This shows that the WISER digital ecosystem and its KG can work in connection with other services in-stead of requiring the hosting of all existing environmental data sources. This is in accordance with the goal of developing a digital ecosystem open to different stakeholders.
+
+A former version of an EcoSpold02 Ontology was developed by Nicolas Kesseli and Ioannis Katis.
+
+If you want to have a look at the ontology with [Obsidian](https://obsidian.md/), use this [application](https://github.com/wiser-flagship/wiser-sp4-ecospold-doc-converter.git)

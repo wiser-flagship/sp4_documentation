@@ -1,0 +1,6 @@
+[book]
+authors = ["Jan Grau"]
+language = "en"
+multilingual = false
+src = "src"
+title = "WISER SP4 Documentation"

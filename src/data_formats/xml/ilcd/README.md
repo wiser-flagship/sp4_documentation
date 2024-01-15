@@ -1,0 +1,6 @@
+# ILCD
+
+ILCD (Integrated Life Cycle Assessment) provides a standardized data format known as the ILCD Data Exchange Format (ILCD Datasheet). This format ensures consistency and comparability in life cycle assessment (LCA) data across different studies and industries. The ILCD format includes structured information on inputs, outputs, and environmental impacts associated with each life cycle stage of a product or service. It incorporates metadata, such as system boundaries, allocation methods, and data quality indicators, enhancing transparency and reliability of the data. The ILCD data format facilitates the exchange and integration of life cycle data, supporting robust assessments of environmental performance. This standardized approach is pivotal in fostering collaboration, enabling researchers, businesses, and policymakers to share and utilize life cycle information effectively for informed decision-making towards sustainable practices.
+
+
+Find more information [here](https://eplca.jrc.ec.europa.eu/LCDN/developerILCDDataFormat.xhtml).
